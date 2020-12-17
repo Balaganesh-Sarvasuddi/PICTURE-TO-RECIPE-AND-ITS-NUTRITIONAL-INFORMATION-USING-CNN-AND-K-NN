@@ -1,0 +1,7 @@
+Download the data from MIT recipe 1M+ Website.
+
+Layer1.json
+layer2.json
+nutritional_information.json
+
+To get the Subset of the recipe1M data or proceess the data, I used AWS sagemaker and S3.
