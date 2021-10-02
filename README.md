@@ -7,3 +7,4 @@
 ## Frame Work Used: Pytorch
 
 Details of this project can be check in Project Review Sample pdf.
+For more Details can be found in thesis.
