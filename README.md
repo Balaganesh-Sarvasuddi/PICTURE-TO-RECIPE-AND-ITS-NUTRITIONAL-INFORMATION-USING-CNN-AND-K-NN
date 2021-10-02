@@ -6,4 +6,4 @@
   
 ## Frame Work Used: Pytorch
 
-Details of this project will upload soon
+Details of this project can be check in Project Review Sample pdf.
